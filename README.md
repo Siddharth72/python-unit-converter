@@ -44,20 +44,20 @@ The application supports:
 
 
 UnitConverter/
-│
-├── main.py
-├── length.py
-├── temperature.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── tests/
-│ ├── test_length.py
-│ └── test_temperature.py
-│
-└── docs/
-└── architecture.png
+  │
+  ├── main.py
+  ├── length.py
+  ├── temperature.py
+  ├── requirements.txt
+  ├── README.md
+  ├── .gitignore
+  │
+  ├── tests/
+  │    ├── test_length.py
+  │    └── test_temperature.py
+  │
+  └── docs/
+       └── architecture.png
 
 
 ---

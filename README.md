@@ -42,6 +42,7 @@ The application supports:
 
 ## Project Structure
 
+
 UnitConverter/
 │
 ├── main.py
@@ -57,6 +58,7 @@ UnitConverter/
 │
 └── docs/
 └── architecture.png
+
 
 ---
 

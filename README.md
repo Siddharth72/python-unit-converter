@@ -154,8 +154,8 @@ This project demonstrates:
 
 ---
 
-## Author -- Siddharth Navaneethan --
+## Author 
 
-**Siddharth Navaneeth**
+**Siddharth Navaneethan**
 
 Data Engineer | Python | SQL | AWS | Snowflake | GCP
